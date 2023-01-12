@@ -1,0 +1,5 @@
+INSERT INTO `productos` (`Identificador`, `titulo`, `descripcion`, `precio`, `stock`, `imagen`) VALUES (NULL, 'Zapatilla 2', 'Descripción de la zapatilla 2 en la base de datos', '20.00', '5', 'zaptilla1.jpg');
+INSERT INTO `productos` (`Identificador`, `titulo`, `descripcion`, `precio`, `stock`, `imagen`) VALUES (NULL, 'Zapatilla 3', 'Descripción de la zapatilla 3 en la base de datos', '30.00', '45', 'zaptilla1.jpg');
+INSERT INTO `productos` (`Identificador`, `titulo`, `descripcion`, `precio`, `stock`, `imagen`) VALUES (NULL, 'Zapatilla 4', 'Descripción de la zapatilla 4 en la base de datos', '15.00', '35', 'zaptilla1.jpg');
+INSERT INTO `productos` (`Identificador`, `titulo`, `descripcion`, `precio`, `stock`, `imagen`) VALUES (NULL, 'Zapatilla 5', 'Descripción de la zapatilla 5 en la base de datos', '12.20', '25', 'zaptilla1.jpg');
+INSERT INTO `productos` (`Identificador`, `titulo`, `descripcion`, `precio`, `stock`, `imagen`) VALUES (NULL, 'Zapatilla 6', 'Descripción de la zapatilla 6 en la base de datos', '32.50', '15', 'zaptilla1.jpg');

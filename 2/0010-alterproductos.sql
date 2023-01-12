@@ -1,0 +1,1 @@
+ALTER TABLE `productos` ADD `imagen` VARCHAR(200) NOT NULL AFTER `stock`;

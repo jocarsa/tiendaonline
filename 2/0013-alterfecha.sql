@@ -1,0 +1,1 @@
+ALTER TABLE `pedidos` CHANGE `fecha` `varchar` DATE NOT NULL;

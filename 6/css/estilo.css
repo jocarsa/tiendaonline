@@ -1,0 +1,14 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body,html{
+    font-family:sans-serif;
+    background:rgb(220,220,220);
+}
+header,main,footer{
+    width:90%;
+    margin:auto;
+    background:white;
+    padding:20px;
+}
